@@ -81,7 +81,7 @@ emotion_aware_nlp/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/suchanadas-014/emotion_aware_nlp.git
+git clone https://github.com/suchana-das014/emotionAwareSystem.git
 cd emotion_aware_nlp
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
